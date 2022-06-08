@@ -1,0 +1,41 @@
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.Forgot_Password.resources
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.Add_Product.resources
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.Admin_Management.resources
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.Login.resources
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.Change_Password.resources
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.Check_OTP.resources
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.Management_Function.Add_Staff.resources
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.Accountant_Management.resources
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.ResolveComReference.cache
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.Management_Function.Change_Product.resources
+C:\Users\nguye\OneDrive\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.Management_Function.Change_Staff.resources
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\bin\Debug\Final_Project.exe.config
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.AssemblyReference.cache
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.SuggestedBindingRedirects.cache
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.ResolveComReference.cache
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.Accountant_Management.resources
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.Add_Product.resources
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.Admin_Management.resources
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.Change_Password.resources
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.Check_OTP.resources
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.Forgot_Password.resources
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.Login.resources
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.Management_Function.Add_Staff.resources
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.Management_Function.Change_Product.resources
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.Management_Function.Change_Staff.resources
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+F:\HK2-2021-2022\Môn lý thuyết\Công nghệ phần mềm\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung-20220530T113326Z-001\519H0136_NguyenTuanAnh_519H0252_TranLeQuangTrung\Final_Project\Final_Project\obj\Debug\Final_Project.pdb

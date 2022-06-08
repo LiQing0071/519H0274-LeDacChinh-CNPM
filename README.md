@@ -2,4 +2,4 @@
 
 
 Tài khoản admin: admin@gmail.com, mật khẩu: 1234567890
-Tài khoản kế toán: dienowok87@gmail.com, mật khẩu:
+Tài khoản kế toán: dienowok87@gmail.com, mật khẩu: 123456789
